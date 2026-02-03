@@ -8,7 +8,7 @@ I'm an audio engineer with experience in recording, post-production and mix qual
 - Session prep, organization, and delivery for post-production
 
 🎚️ Tool:
-- DAWs: Pro Tools, Logic Pro, Ableton
+- DAWs: Pro Tools, Logic Pro, Ableton, Maschine, Garageband
 - Plugins: Waves, SSL, Eventide, Oeksound, Soundtoys
 
 📁 This Github Documents:
